@@ -1,6 +1,6 @@
-- 👋 Hi, I’m He-Chien Wu, or you can call me Anthony Wu
-- 👀 I’m interested in coding
-- 🌱 I’m currently majoring in Information Management in National Taiwan University
+- 👋 Hi, I’m He-Chien Wu, or you can call me Anthony Wu.
+- 👀 I’m very interested in coding.
+- 🌱 I’m currently majoring Information Management in National Taiwan University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

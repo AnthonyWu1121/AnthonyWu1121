@@ -4,7 +4,7 @@
 - 👀 Currently looking for internship opportunities in web programming or deep learning related fields.
 
 
-There are some projects I have participated in on my GitHub page, such as:
+There are some projects I have participated in on my GitHub page:
 - feedme
   - FeedMe (Feb. 2023 – Present)
     - A website where users can store what is in their fridge and find recipes according to it.

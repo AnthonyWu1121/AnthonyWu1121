@@ -11,10 +11,13 @@ There are some projects I have participated in on my GitHub page, such as:
     - Currently responsible for frontend design and backend implementation
     - Used frameworks: Git, GitHub, React.js, Node.js, PostgreSQL
 - wp1101-final
-  - Competition Game-Pairing System Dec. 2021 – Jan. 2022
+  - Competition Game-Pairing System (Dec. 2021 – Jan. 2022)
     - A website for competition organizers to easily schedule games between full-scheduled teams.
     - Responsible for implementing the whole backend with GraphQL and frontend design
     - Used frameworks: Git, GitHub, React.js, GraphQL, MongoDB
+- wp1101
+  - Web Programming; NTU (Sept. 2021 - Jan. 2022)
+    - Several small websites I have completed in the course
 
 <!---
 AnthonyWu1121/AnthonyWu1121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
